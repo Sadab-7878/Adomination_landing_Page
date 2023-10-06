@@ -30,7 +30,7 @@ export default function Home() {
 
       <div className="my-28">
         {/* 1 */}
-        <div className="mx-4  rounded-[80px] lg:rounded-[100px] h-[300px]  lg:w-[700px] lg:h-[400px] bg-[#CD2B2D] ">
+        <div className="mx-4  rounded-[80px] lg:rounded-[70px] h-[300px]  lg:w-[700px] lg:h-[400px] bg-[#CD2B2D] ">
           <div className="px-20 py-10">
 
         
@@ -39,10 +39,10 @@ export default function Home() {
             style={josefinSans.style}
             className=" flex justify-between font-bold items-center"
           >
-            <div className="text-4xl">Craft CMS</div>
+            <div className="text-4xl lg:-ml-10">Craft Brand</div>
 
             <div className="-mr-8">
-              <Image src={Logo} alt="logo" className="h-20 w-20 rounded-full" />
+              <Image src={Logo} alt="logo" className="h-16 w-16 rounded-full" />
             </div>
           </div>
 
@@ -50,7 +50,7 @@ export default function Home() {
 
           <div className="text-center">
 
-            <Marquee  className="text-8xl overflow-hidden font-semibold">We create extraordinary digital solutions that get people talking</Marquee>
+            <Marquee  className="text-8xl overflow-hidden font-semibold">WE CREATE EXTRAORDINARY DIGITAL SOLUTIONS THAT GET PEOPLE TALKING.</Marquee>
 
           </div>
 
