@@ -50,7 +50,7 @@ export default function Home() {
 
           <div className="text-center">
 
-            <Marquee  className="text-8xl overflow-hidden font-semibold">Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero magni sunt illum, consequuntur optio ducimus doloremque ea tenetur soluta consequatur sapiente ipsa, assumenda corporis praesentium neque, inventore suscipit iusto. Deserunt, consequuntur ea. Suscipit autem dolor corrupti optio architecto quaerat quae ex? In molestiae aliquid sed officia, consequatur maiores dicta fugiat?</Marquee>
+            <Marquee  className="text-8xl overflow-hidden font-semibold">We create extraordinary digital solutions that get people talking</Marquee>
 
           </div>
 
