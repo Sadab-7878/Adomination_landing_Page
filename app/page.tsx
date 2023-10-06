@@ -48,7 +48,7 @@ export default function Home() {
 
           </div>
 
-          <div className="text-center">
+          <div className="">
 
             <Marquee  className="text-8xl overflow-hidden font-semibold">WE CREATE EXTRAORDINARY DIGITAL SOLUTIONS THAT GET PEOPLE TALKING.</Marquee>
 
